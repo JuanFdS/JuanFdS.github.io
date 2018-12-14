@@ -1,3 +1,6 @@
+
+![pino](https://serving.photos.photobox.com/78606551901228bd06f5deb84c47f6325ff3f935c7fdd208e21ddea087fbf44ce80b768d.jpg)
+
 [Click para ir a las slides de la introducción](https://docs.google.com/presentation/d/1JFGj-BjxMTW2AVsmwKmRKyb4asc6Zi0wSimKTdvS5U0/edit?usp=sharing)
 
 ### Tema: ???
