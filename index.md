@@ -1,6 +1,8 @@
 # 10Pines Gamejam
 
-### Tema: Topics
+[Click para ir a las slides de la introducción](https://docs.google.com/presentation/d/1JFGj-BjxMTW2AVsmwKmRKyb4asc6Zi0wSimKTdvS5U0/edit?usp=sharing)
+
+### Tema: ???
 
 ![suspenso](https://scontent.faep11-1.fna.fbcdn.net/v/t1.0-9/1381686_245530905601161_1591297400_n.jpg?_nc_cat=105&_nc_ht=scontent.faep11-1.fna&oh=9f0e8bb45c8456295ab788bf55b2d054&oe=5C91E2A4)
 
