@@ -3,9 +3,11 @@
 
 [Click para ir a las slides de la introducción](https://docs.google.com/presentation/d/1JFGj-BjxMTW2AVsmwKmRKyb4asc6Zi0wSimKTdvS5U0/edit?usp=sharing)
 
-### Tema: ???
+### Tema: Mentiras
 
-La idea es que el juego se relacione de alguna manera con el tema, que se va a elegir aleatoriamente.
+![Mentiras](http://www.chozadigital.com/wp-content/uploads/2018/10/Pinocchio-Guillermo-del-Toro-ChozaDigital-1.jpg)
+
+La idea es que el juego se relacione de alguna manehttp://www.chozadigital.com/wp-content/uploads/2018/10/Pinocchio-Guillermo-del-Toro-ChozaDigital-1.jpgra con el tema, que se va a elegir aleatoriamente.
 
 ![suspenso](https://scontent.faep11-1.fna.fbcdn.net/v/t1.0-9/1381686_245530905601161_1591297400_n.jpg?_nc_cat=105&_nc_ht=scontent.faep11-1.fna&oh=9f0e8bb45c8456295ab788bf55b2d054&oe=5C91E2A4)
 
