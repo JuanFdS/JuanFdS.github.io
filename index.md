@@ -7,7 +7,7 @@
 
 ![Mentiras](http://www.chozadigital.com/wp-content/uploads/2018/10/Pinocchio-Guillermo-del-Toro-ChozaDigital-1.jpg)
 
-La idea es que el juego se relacione de alguna manehttp://www.chozadigital.com/wp-content/uploads/2018/10/Pinocchio-Guillermo-del-Toro-ChozaDigital-1.jpgra con el tema, que se acaba de elegir aleatoriamente.
+La idea es que el juego se relacione de alguna manera con el tema, que se acaba de elegir aleatoriamente.
 
 ### Los diversifies sirven para tomar ideas o autoimponer desafíos al equipo a la hora de hacer el juego. Son totalmente opcionales, si ves alguno que te copa podés aplicarlo:
 
