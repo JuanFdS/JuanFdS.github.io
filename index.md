@@ -4,7 +4,9 @@
 [Click para ir a las slides de la introducción](https://docs.google.com/presentation/d/1JFGj-BjxMTW2AVsmwKmRKyb4asc6Zi0wSimKTdvS5U0/edit?usp=sharing)
 
 ## Juegos hechos en la jam:
-- [Alma Mortal](https://github.com/alvare/gamejam-alma-mortal/)
+- Alma Mortal
+  - [Repo](https://github.com/alvare/gamejam-alma-mortal/)
+  - [Link para jugarlo online](http://clrnd.com.ar/stuff/alma-mortal/)
 - [Vickiller](https://gitlab.com/enseidler/vickiller)
 - Avalón online (nombre pendiente)
 ...
