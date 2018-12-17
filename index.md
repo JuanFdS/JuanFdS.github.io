@@ -3,6 +3,20 @@
 
 [Click para ir a las slides de la introducción](https://docs.google.com/presentation/d/1JFGj-BjxMTW2AVsmwKmRKyb4asc6Zi0wSimKTdvS5U0/edit?usp=sharing)
 
+## Juegos hechos en la jam:
+- Alma Mortal
+https://github.com/alvare/gamejam-alma-mortal/
+- Vickiller
+https://docs.google.com/presentation/d/13woJWlaMpkjm6kqvS3msJSGFi-uZ9owZ-Bs0ff1K4wg/edit?usp=sharing
+- Avalón online (nombre pendiente)
+...
+- El chori maléfico
+...
+- Estebangame (nombre pendiente)
+...
+- Magos y orbes (nombre pendiente)
+...
+
 ### Tema: Mentiras
 
 ![Mentiras](http://www.chozadigital.com/wp-content/uploads/2018/10/Pinocchio-Guillermo-del-Toro-ChozaDigital-1.jpg)
