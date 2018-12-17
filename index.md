@@ -5,7 +5,7 @@
 
 ## Juegos hechos en la jam:
 - [Alma Mortal](https://github.com/alvare/gamejam-alma-mortal/)
-- [Vickiller](https://docs.google.com/presentation/d/13woJWlaMpkjm6kqvS3msJSGFi-uZ9owZ-Bs0ff1K4wg/edit?usp=sharing)
+- [Vickiller](https://gitlab.com/enseidler/vickiller)
 - Avalón online (nombre pendiente)
 ...
 - El chori maléfico
