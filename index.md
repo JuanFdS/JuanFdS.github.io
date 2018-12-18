@@ -7,7 +7,9 @@
 - Alma Mortal
   - [Repo](https://github.com/alvare/gamejam-alma-mortal/)
   - [Link para jugarlo online](http://clrnd.com.ar/stuff/alma-mortal/)
-- [Vickiller](https://gitlab.com/enseidler/vickiller)
+- Vickiller
+  - [Explicacion](https://docs.google.com/presentation/d/13woJWlaMpkjm6kqvS3msJSGFi-uZ9owZ-Bs0ff1K4wg/edit)
+  - [Link para jugarlo online](http://enseidler.github.io)
 - Avalón online (nombre pendiente)
 ...
 - El chori maléfico
