@@ -8,7 +8,7 @@
   - [Repo](https://github.com/alvare/gamejam-alma-mortal/)
   - [Link para jugarlo online](http://clrnd.com.ar/stuff/alma-mortal/)
 - Vickiller
-  - [Explicacion](https://docs.google.com/presentation/d/13woJWlaMpkjm6kqvS3msJSGFi-uZ9owZ-Bs0ff1K4wg/edit)
+  - [Explicacion](https://docs.google.com/presentation/d/13woJWlaMpkjm6kqvS3msJSGFi-uZ9owZ-Bs0ff1K4wg/edit?usp=sharing)
   - [Link para jugarlo online](http://enseidler.github.io)
 - Avalón online (nombre pendiente)
 ...
