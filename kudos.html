@@ -32,11 +32,11 @@
     {
         var webSoket = new WebSocket('ws://192.168.1.105:33333/');
 
-        this.load.image('sky', 'assets/sky.png');
-        this.load.image('ground', 'assets/platform.png');
-        this.load.image('star', 'assets/pinito.png');
-        this.load.image('bomb', 'assets/bomb.png');
-        this.load.spritesheet('dude', 'assets/dude2.png', { frameWidth: 32, frameHeight: 48 });
+        this.load.image('sky', 'https://juanfds.github.io/assets/sky.png');
+        this.load.image('ground', 'https://juanfds.github.io/assets/platform.png');
+        this.load.image('star', 'https://juanfds.github.io/assets/pinito.png');
+        this.load.image('bomb', 'https://juanfds.github.io/assets/bomb.png');
+        this.load.spritesheet('dude', 'https://juanfds.github.io/assets/dude2.png', { frameWidth: 32, frameHeight: 48 });
         console.log(webSoket);
         self = this
         webSoket.onmessage = (e) =>  { this.spawnStar(this.player, this.platforms) }
