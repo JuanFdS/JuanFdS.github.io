@@ -1,3 +1,3 @@
 [submodule "candy-calculator"]
 	path = candy-calculator
-	url = git@github.com:JuanFdS/pokemon-candy-calculator.git
+	url = https://github.com/JuanFdS/pokemon-candy-calculator.git
