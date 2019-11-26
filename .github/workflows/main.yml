@@ -13,4 +13,5 @@ jobs:
     - name: Deploy candy calculator
       run: |
         mkdir pokemon-exp-candy
-        elm make candy-calculator/src/Main.elm --output="pokemon-exp-candy/index.html"
+        cd candy-calculator
+        elm make src/Main.elm --output="../pokemon-exp-candy/index.html"
