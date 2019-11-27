@@ -22,7 +22,6 @@ jobs:
         mkdir pokemon-exp-candy
         cd candy-calculator
         elm make src/Main.elm --output="../pokemon-exp-candy/index.html"
-        git push 
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
