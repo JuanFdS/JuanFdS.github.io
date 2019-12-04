@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Setup Elm environment
-      uses: JorelAli/setup-elm@v1
     - uses: actions/checkout@v1
       with:
         submodules: true
@@ -21,8 +19,10 @@ jobs:
         git checkout develop
         mkdir pokemon-exp-candy
         cd candy-calculator
-        elm make src/Main.elm --output="../pokemon-exp-candy/index.html"
-        cp assets/* ../assets/
+        npm install elm@latest-0.19.1
+        npm install create-elm-app
+        elm-app build
+        mv build/* ../pokemon-exp-candy
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
