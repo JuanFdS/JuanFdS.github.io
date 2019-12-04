@@ -1,0 +1,21 @@
+{
+  "main.css": "/pokemon-exp-candy/static/css/main.58761874.chunk.css",
+  "main.js": "/pokemon-exp-candy/static/js/main.6fc50e90.chunk.js",
+  "main.js.map": "/pokemon-exp-candy/static/js/main.6fc50e90.chunk.js.map",
+  "runtime~main.js": "/pokemon-exp-candy/static/js/runtime~main.9c4c61ee.js",
+  "runtime~main.js.map": "/pokemon-exp-candy/static/js/runtime~main.9c4c61ee.js.map",
+  "vendors~main.js": "/pokemon-exp-candy/static/js/vendors~main.3ca81432.chunk.js",
+  "vendors~main.js.map": "/pokemon-exp-candy/static/js/vendors~main.3ca81432.chunk.js.map",
+  "./service-worker.js": "/pokemon-exp-candy/./service-worker.js",
+  "assets/exp-candy-l.png": "/pokemon-exp-candy/assets/exp-candy-l.png",
+  "assets/exp-candy-m.png": "/pokemon-exp-candy/assets/exp-candy-m.png",
+  "assets/exp-candy-s.png": "/pokemon-exp-candy/assets/exp-candy-s.png",
+  "assets/exp-candy-xl.png": "/pokemon-exp-candy/assets/exp-candy-xl.png",
+  "assets/exp-candy-xs.png": "/pokemon-exp-candy/assets/exp-candy-xs.png",
+  "assets/missignNo.png": "/pokemon-exp-candy/assets/missignNo.png",
+  "assets/pokeball.png": "/pokemon-exp-candy/assets/pokeball.png",
+  "favicon.ico": "/pokemon-exp-candy/favicon.ico",
+  "index.html": "/pokemon-exp-candy/index.html",
+  "manifest.json": "/pokemon-exp-candy/manifest.json",
+  "precache-manifest.a3a64c6219b55d07e8c5939c88f5f1f6.js": "/pokemon-exp-candy/precache-manifest.a3a64c6219b55d07e8c5939c88f5f1f6.js"
+}
