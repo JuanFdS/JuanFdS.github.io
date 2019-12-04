@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemon-exp-candy/favicon.ico"
   },
   {
-    "revision": "54967496d8595df1b0813259a8a8aa47",
+    "revision": "c48e6b1cafee4030f78d017da0863503",
     "url": "/pokemon-exp-candy/index.html"
   },
   {
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemon-exp-candy/manifest.json"
   },
   {
-    "revision": "6fc50e908a601ed9dfa8",
-    "url": "/pokemon-exp-candy/static/css/main.58761874.chunk.css"
+    "revision": "07c78733148cca077f0a",
+    "url": "/pokemon-exp-candy/static/css/main.d16b205a.chunk.css"
   },
   {
-    "revision": "6fc50e908a601ed9dfa8",
-    "url": "/pokemon-exp-candy/static/js/main.6fc50e90.chunk.js"
+    "revision": "07c78733148cca077f0a",
+    "url": "/pokemon-exp-candy/static/js/main.07c78733.chunk.js"
   },
   {
     "revision": "9c4c61ee43acb2d6d55e",

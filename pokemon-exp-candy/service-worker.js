@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pokemon-exp-candy/precache-manifest.a3a64c6219b55d07e8c5939c88f5f1f6.js"
+  "/pokemon-exp-candy/precache-manifest.53407000b69cde8f75596e33484c9a55.js"
 );
 
 workbox.core.skipWaiting();

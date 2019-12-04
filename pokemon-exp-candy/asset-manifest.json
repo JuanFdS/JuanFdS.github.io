@@ -1,7 +1,7 @@
 {
-  "main.css": "/pokemon-exp-candy/static/css/main.58761874.chunk.css",
-  "main.js": "/pokemon-exp-candy/static/js/main.6fc50e90.chunk.js",
-  "main.js.map": "/pokemon-exp-candy/static/js/main.6fc50e90.chunk.js.map",
+  "main.css": "/pokemon-exp-candy/static/css/main.d16b205a.chunk.css",
+  "main.js": "/pokemon-exp-candy/static/js/main.07c78733.chunk.js",
+  "main.js.map": "/pokemon-exp-candy/static/js/main.07c78733.chunk.js.map",
   "runtime~main.js": "/pokemon-exp-candy/static/js/runtime~main.9c4c61ee.js",
   "runtime~main.js.map": "/pokemon-exp-candy/static/js/runtime~main.9c4c61ee.js.map",
   "vendors~main.js": "/pokemon-exp-candy/static/js/vendors~main.3ca81432.chunk.js",
@@ -17,5 +17,5 @@
   "favicon.ico": "/pokemon-exp-candy/favicon.ico",
   "index.html": "/pokemon-exp-candy/index.html",
   "manifest.json": "/pokemon-exp-candy/manifest.json",
-  "precache-manifest.a3a64c6219b55d07e8c5939c88f5f1f6.js": "/pokemon-exp-candy/precache-manifest.a3a64c6219b55d07e8c5939c88f5f1f6.js"
+  "precache-manifest.53407000b69cde8f75596e33484c9a55.js": "/pokemon-exp-candy/precache-manifest.53407000b69cde8f75596e33484c9a55.js"
 }
