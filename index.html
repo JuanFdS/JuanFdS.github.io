@@ -125,9 +125,58 @@
             background: var(--accent-light);
         }
 
-        @media (max-width: 1150px) {
+        @media only screen and (max-width: 1024px) {
             .side-nav {
                 display: none;
+            }
+        }
+
+        /* Mobile bottom navigation */
+        .mobile-nav {
+            display: none;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            background: var(--card);
+            border-top: 1px solid var(--border);
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.08);
+            padding: 0.5rem 0.25rem;
+            justify-content: space-around;
+        }
+
+        .mobile-nav a {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            width: 100%;
+            align-items: center;
+            gap: 0.15rem;
+            padding: 0.35rem 0.5rem;
+            font-size: 0.65rem;
+            color: var(--text-light);
+            text-decoration: none;
+            border-radius: 6px;
+            transition: all 0.2s;
+        }
+
+        .mobile-nav a:hover,
+        .mobile-nav a:active {
+            color: var(--accent);
+            background: var(--accent-light);
+        }
+
+        .mobile-nav .nav-icon {
+            font-size: 1.1rem;
+        }
+
+        @media only screen and (max-width: 1024px) {
+            .mobile-nav {
+                display: flex;
+            }
+            body {
+                padding-bottom: 60px;
             }
         }
 
@@ -381,6 +430,13 @@
 </header>
 
 <nav class="side-nav">
+    <a href="#experiencia">Experiencia</a>
+    <a href="#idiomas">Idiomas</a>
+    <a href="#educacion">Educación</a>
+    <a href="#portfolio">Portfolio</a>
+</nav>
+
+<nav class="mobile-nav">
     <a href="#experiencia">Experiencia</a>
     <a href="#idiomas">Idiomas</a>
     <a href="#educacion">Educación</a>
